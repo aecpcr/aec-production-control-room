@@ -19,7 +19,7 @@ Critical project data will be made available to key stakeholders who can make be
 
 ## Foucs
 The main areas of focus will be:
-* Development and installation of three site-mounted physical Control Room demonstrators at Heathrow, HS2 Euston and A303 Highway by SME partner MissionRoom;
+* Development and installation of three site-mounted physical Control Room demonstrators by SME partner MissionRoom;
 * Installation of fourth physical master Control Room at DfT HQ in Whitehall;
 * Novel open source data aggregation and filtering interface by Mace, Costain and SMEs;
 *Academic research establishing the industry business model transformation required. Plus RoI, impact and case studies for business exploitation upon completion by UCL and Imperial College.
